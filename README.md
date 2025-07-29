@@ -1,9 +1,10 @@
 # NLP
 This repository serves as a hands-on playground for exploring and implementing various Natural Language Processing (NLP) techniques and workflows.
 
-NLP Pipeline 
+ 
 
-<img width="1065" height="594" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/f092db79-a357-43bb-b1aa-3a3539bb00c0" />
+<img width="1082" height="561" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/1b92688d-d77a-493e-b090-f2e39f28fb8e" />
+
 
 
 Here’s a brief explanation for each step in this pipeline, aligned with your flow:
