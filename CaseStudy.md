@@ -1,7 +1,7 @@
 **Case Study: Spam Email Detection Using NLP Pipeline**
 
 
-<img width="860" height="630" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/a7c30ae8-f692-4d75-bb96-2573064b5684" />
+<img width="793" height="655" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/6aaa4235-ac0c-4bc2-9c78-79f534b78657" />
 
 1. Data Collection
 Collect a dataset of emails labeled as "spam" or "not spam."
